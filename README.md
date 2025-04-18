@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>スクショで簡単！ 戦力ラクラク計算機</title></title>
+  <title>スクショで簡単！ 戦力ラクラク計算機</title>スクショで簡単！ 戦力ラクラク計算機</title>
   <script src="https://cdn.jsdelivr.net/npm/tesseract.js@2.1.4/dist/tesseract.min.js"></script>
   <style>
     body {
